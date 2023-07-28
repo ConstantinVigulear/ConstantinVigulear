@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ConstantinVigulear
-- 👀 I’m interested in Java/C++ development, Cyber Security, Penetration Testing, and Kali Linux.
+- 👀 I’m interested in Java development, Cyber Security, Penetration Testing, and Kali Linux.
 - 📫 How to reach me: kostavigulear@outlook.com
 
 <!---
